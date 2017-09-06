@@ -8,6 +8,7 @@ cycler==0.10.0
 decorator==4.1.2
 entrypoints==0.2.3
 gensim==2.3.0
+h5py==2.7.1
 html5lib==0.9999999
 idna==2.6
 ipykernel==4.6.1
